@@ -1,23 +1,16 @@
-html{
-	background-image:url("IT-Consulting.jpg");
-	background-size:cover;
-}
-
 body{
- 
-background-image:url("IT-Consulting.jpg");
-	background-size:cover;
-
- 
+	background:url('NEW.png')no-repeat;
+	background-size:2500px 900px;
+	padding-top:70px;
 }
 
 h1{
 	font-family:Times New Roman;
-	font-weight:bold;
+	font-weight:bolder;
 	text-align:center;
 	color:white;
-	font-size:50px;
-
+	font-size:70px;
+	padding-top:7a0px;
  }
 form {
                 width:500px;
@@ -27,4 +20,22 @@ form {
 
 .button{
 color:red
+}
+
+.formm{
+	width:40%;
+	height:30px;
+	position:absolute;
+	bottom:410px;
+	left:500px;
+}
+
+.btn{
+	position:absolute;
+	bottom:350px;
+	width:10%;
+	height:40px;
+	left:729px;
+	background-color:dodgerblue;
+	color:white;
 }
